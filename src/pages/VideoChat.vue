@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>PeerJS One-to-One Connection</h1>
+    <h1>9x Meet</h1>
     <peer-vid/> <!-- Correct usage -->
   </div>
 </template>
